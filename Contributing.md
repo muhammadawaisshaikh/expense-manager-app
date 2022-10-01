@@ -1,4 +1,4 @@
-# Contributing to Chatify
+# Contributing to Expense Manager
 
 Must Todo items to get your PR Merged Live:
 1️⃣ Hit "Star" 🚀
