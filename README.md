@@ -6,7 +6,7 @@ Save time by managing bills &amp; expenses, invoicing &amp; easy reconciliation 
 ## 👉 Want to Contribute? ✨🔋
 1️⃣ Hit "Star" 🚀
 2️⃣ Fork "Repo"
-3️⃣ Follow [Contribution Guidelines](https://github.com/muhammadawaisshaikh/community-events-angular/blob/main/Contributing.md)
+3️⃣ Follow [Contribution Guidelines](https://github.com/muhammadawaisshaikh/expense-manager-app/blob/main/Contributing.md)
 
 ## 👉 Contributors ✨🏆
 
