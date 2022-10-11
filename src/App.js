@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import RouterProvider from './core/routes/RouterProvider';
 import Header from './layout/header';
 
