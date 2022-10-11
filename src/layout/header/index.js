@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Style from './style';
 import { routes } from '../../core/routes';
-// import IconResolver from '../../core/resolvers/iconResolver';
+import IconResolver from '../../core/resolvers/iconResolver';
 
 import AppBar from '@mui/material/AppBar';
 import Box from '@mui/material/Box';
@@ -44,7 +44,7 @@ const Header = () => {
                 <Toolbar disableGutters>
                     {/* desktop menu  */}
                     <span sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}>
-                        {/* {IconResolver('adb')} */}
+                        {IconResolver('adb')}
                     </span>
                     <Typography
                         variant="h6"
@@ -74,7 +74,7 @@ const Header = () => {
                             onClick={handleOpenNavMenu}
                             color="inherit"
                         >
-                            {/* {IconResolver('menu')} */}
+                            {IconResolver('menu')}
                         </IconButton>
                         <Menu
                             id="menu-appbar"
