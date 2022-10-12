@@ -1,11 +1,12 @@
 import Login from "../../pages/auth/login";
 import Signup from "../../pages/auth/signup";
+import Homepage from "../../pages/homepage"
 
 export const routes = [
     {
         path: '/',
-        name: "Login",
-        component: <Login />,
+        name: "Homepage",
+        component: <Homepage />,
         icon: 'home',
         show: false
     },
